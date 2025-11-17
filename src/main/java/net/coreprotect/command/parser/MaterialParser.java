@@ -213,6 +213,7 @@ public class MaterialParser {
         tagMap.put("#button", BlockGroup.BUTTONS);
         tagMap.put("#container", BlockGroup.CONTAINERS);
         tagMap.put("#door", BlockGroup.DOORS);
+        tagMap.put("#sign", BlockGroup.SIGNS);
         tagMap.put("#natural", BlockGroup.NATURAL_BLOCKS);
         tagMap.put("#pressure_plate", BlockGroup.PRESSURE_PLATES);
         tagMap.put("#shulker_box", BlockGroup.SHULKER_BOXES);
